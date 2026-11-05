@@ -1,0 +1,6 @@
+{
+  "name": "PocketCore Cloud",
+  "description": "Enterprise cloud management platform for PocketMine-MP and Minecraft Bedrock servers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
